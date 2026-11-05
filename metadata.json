@@ -1,0 +1,6 @@
+{
+  "name": "Albkestrel OS Automation",
+  "description": "Offline-first OS automation routines engine for Google Pixel 8a (Akita) and LineageOS.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
